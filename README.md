@@ -14,4 +14,7 @@ This project demonstrates a 3D scene using Three.js, where a camera follows insi
 1. Clone the repository:
    ```bash
    git clone https://github.com/harisnasir1/wornhole.git
+2. run the project:
+   ```bash
    node server.js to run the project
+   
